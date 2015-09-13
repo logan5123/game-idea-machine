@@ -1060,6 +1060,8 @@ module.exports = {
 			'take down a corrupt government',
 			'become amazingly wealthy',
 			'escape your past',
+                        'beat the game',
+
 		],
 
 		templates : [
